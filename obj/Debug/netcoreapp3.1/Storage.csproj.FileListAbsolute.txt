@@ -1,0 +1,13 @@
+D:\Visual Studio\Projects\Storage\Storage\bin\Debug\netcoreapp3.1\Storage.exe
+D:\Visual Studio\Projects\Storage\Storage\bin\Debug\netcoreapp3.1\Storage.deps.json
+D:\Visual Studio\Projects\Storage\Storage\bin\Debug\netcoreapp3.1\Storage.runtimeconfig.json
+D:\Visual Studio\Projects\Storage\Storage\bin\Debug\netcoreapp3.1\Storage.runtimeconfig.dev.json
+D:\Visual Studio\Projects\Storage\Storage\bin\Debug\netcoreapp3.1\Storage.dll
+D:\Visual Studio\Projects\Storage\Storage\bin\Debug\netcoreapp3.1\Storage.pdb
+D:\Visual Studio\Projects\Storage\Storage\obj\Debug\netcoreapp3.1\Storage.csprojAssemblyReference.cache
+D:\Visual Studio\Projects\Storage\Storage\obj\Debug\netcoreapp3.1\Storage.AssemblyInfoInputs.cache
+D:\Visual Studio\Projects\Storage\Storage\obj\Debug\netcoreapp3.1\Storage.AssemblyInfo.cs
+D:\Visual Studio\Projects\Storage\Storage\obj\Debug\netcoreapp3.1\Storage.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Projects\Storage\Storage\obj\Debug\netcoreapp3.1\Storage.dll
+D:\Visual Studio\Projects\Storage\Storage\obj\Debug\netcoreapp3.1\Storage.pdb
+D:\Visual Studio\Projects\Storage\Storage\obj\Debug\netcoreapp3.1\Storage.genruntimeconfig.cache
